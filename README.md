@@ -10,7 +10,7 @@ With the Magento 2 Spam Bot Blocker extension, you can protect your forms using 
 
 * Restrict spammers/bots to submit your form using honeypot technique
 * Restrict spammers/bots to submit your forms by blocking their email addresses. Block using Willard prefix email domains
-* Work with any forms types: Magento 2 forms, custom forms, third-party forms 
+* Work with any forms types: default Magento 2 forms, custom forms, third-party forms 
 * List the forms to protect by form actions and CSS selector
 * Support logging to save all spammers blocked per day in the backend, including all details spammers used to submit the forms: IP, forms data, etc.
 * Manually delete all spammers logs in the backend or automatically at a specific date/time
